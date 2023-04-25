@@ -4,7 +4,7 @@ This is a simple smart contract written in Solidity to manage the ownership of a
 
 * Features
 
-** 1. Set the sale status of the IPhone `(open or closed)` by the owner.
+* 1. Set the sale status of the IPhone `(open or closed)` by the owner.
 ** 2. Users can buy the IPhone by sending the required payment.
 ** 3. View the current sale status, balance, origin, and owner of the IPhone.
 
